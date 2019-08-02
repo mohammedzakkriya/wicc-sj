@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebPoint\n"
+"POT-Creation-Date: 2019-02-21 13:21+0200\n"
+"PO-Revision-Date: 2019-02-21 13:22+0200\n"
+"Last-Translator: Дмитрий Денисов <admin@dmitriydenisov.com>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Bookmarks: -1,229,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/404.php:50
+msgid "Error 404 &mdash; Page not found"
+msgstr "Ошибка 404 &mdash; страница не найдена"
+
+#: includes/404.php:71
+msgid "Unfortunately, there is no such page on our website."
+msgstr "К сожалению, такой страницы нет на нашем сайте."
+
+#: includes/404.php:73
+msgid ""
+"You may have entered the wrong page address or it was removed from the "
+"server."
+msgstr ""
+"Возможно, вы ввели неправильный адрес страницы или она была удалена с "
+"сервера."
+
+#: includes/404.php:76
+#, php-format
+msgid "You can go to the %1$smain page%2$s or use the site search."
+msgstr ""
+"Вы можете перейти на %1$sглавную страницу%2$s или воспользоваться поиском по "
+"сайту."
+
+#: includes/author.php:58
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: includes/author.php:62
+msgid "Archives"
+msgstr "Архив записей"
+
+#: includes/author.php:103 includes/single.php:426 includes/taxonomy.php:78
+msgid "Edit"
+msgstr "Редактировать"
+
+#: includes/comment-form.php:22
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: includes/comment-form.php:102
+msgid "Name"
+msgstr "Имя"
+
+#: includes/comment-form.php:105
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/comment-form.php:108
+msgid "Website"
+msgstr "Сайт"
+
+#: includes/comment-form.php:111
+msgid "Comment"
+msgstr "Комментарий"
+
+#: includes/comment-form.php:116
+msgid "Required fields"
+msgstr "поля, обязательные для заполнения"
+
+#: includes/comment-form.php:126
+msgid "Submit"
+msgstr "Отправить"
+
+#: includes/comment-form.php:129
+#, php-format
+msgid "Please %1$slogin%2$s to post a comment."
+msgstr "Пожалуйста, %1$sавторизируйтесь%2$s, чтобы оставить комментарий."
+
+#: includes/comment-form.php:134
+msgid "You are logged in as"
+msgstr "Вы вошли как"
+
+#: includes/comment-form.php:196
+msgid "Save my data in this browser for the next time I comment."
+msgstr "Сохранить мои данные в браузере для дальнейшего комментирования."
+
+#: includes/comment-form.php:245
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: includes/comments.php:103
+msgid "Comments"
+msgstr "Комментарии"
+
+#: includes/comments.php:163 includes/template.php:553
+msgctxt "pagination"
+msgid "Prev"
+msgstr "Предыдущая"
+
+#: includes/comments.php:164 includes/template.php:554
+msgctxt "pagination"
+msgid "Next"
+msgstr "Следующая"
+
+#: includes/comments.php:389
+#, php-format
+msgctxt "date and time format"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: includes/comments.php:468
+msgid "Your comment will be published after being moderated."
+msgstr "Ваш комментарий будет опубликован после проверки модератором."
+
+#: includes/comments.php:521
+msgid "Edit comment"
+msgstr "Изменить"
+
+#: includes/comments.php:547
+msgid "Reply"
+msgstr "Ответить"
+
+#: includes/comments.php:627
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s комментарий"
+msgstr[1] "%s комментария"
+msgstr[2] "%s комментариев"
+
+#: includes/customizer.php:27
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: includes/customizer.php:40
+msgid "Logo Text"
+msgstr "Текст логотипа"
+
+#: includes/customizer.php:43
+msgid "Enter the site logo text (HTML tags allowed)."
+msgstr "Введите текст логотипа (разрешены HTML теги)."
+
+#: includes/customizer.php:55
+msgid "Logo Description"
+msgstr "Описание логотипа"
+
+#: includes/customizer.php:58
+msgid "Enter the site logo description (HTML tags allowed)."
+msgstr "Введите описание логотипа (разрешены HTML теги)."
+
+#: includes/customizer.php:70
+msgid "Sidebar Position"
+msgstr "Позиция сайдбара"
+
+#: includes/customizer.php:73
+msgid "Select the sidebar position."
+msgstr "Выберите позицию сайдбара."
+
+#: includes/customizer.php:75
+msgctxt "sidebar position"
+msgid "Left"
+msgstr "Слева"
+
+#: includes/customizer.php:76
+msgctxt "sidebar position"
+msgid "Right"
+msgstr "Справа"
+
+#: includes/customizer.php:77
+msgctxt "sidebar position"
+msgid "Bottom"
+msgstr "Снизу"
+
+#: includes/customizer.php:78
+msgctxt "sidebar position"
+msgid "Disabled"
+msgstr "Отключен"
+
+#: includes/customizer.php:91
+msgid "Mobile Sidebar Menus"
+msgstr "Мобильные меню боковой панели"
+
+#: includes/customizer.php:94
+msgid "Use sidebar menus in mobile navigation."
+msgstr "Использовать меню боковой колонки сайта в мобильной навигации."
+
+#: includes/customizer.php:96 includes/customizer.php:115
+msgid "Enabled"
+msgstr "Включено"
+
+#: includes/customizer.php:97 includes/customizer.php:116
+msgid "Disabled"
+msgstr "Отключено"
+
+#: includes/customizer.php:110
+msgid "Fixed Widget"
+msgstr "Плавающий виджет"
+
+#: includes/customizer.php:113
+msgid "Make sticky the last widget in the sidebar."
+msgstr "Сделать последний виджет в сайдбаре плавающим."
+
+#: includes/date.php:55
+#, php-format
+msgctxt "yearly archive title"
+msgid "Year: %s"
+msgstr "Архив записей за %s год"
+
+#: includes/date.php:56
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: includes/date.php:62
+#, php-format
+msgctxt "monthly archive title"
+msgid "Month: %s"
+msgstr "Архив записей за %s года"
+
+#: includes/date.php:63
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: includes/date.php:69
+#, php-format
+msgctxt "daily archive title"
+msgid "Day: %s"
+msgstr "Архив записей за %s года"
+
+#: includes/date.php:70
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: includes/functions.php:621 includes/functions.php:624
+#: includes/functions.php:627 includes/single.php:328
+msgid "No image available"
+msgstr "Изображение отсутствует"
+
+#: includes/header.php:75
+msgid "You must enable javascript to view this page properly."
+msgstr "Для корректной работы сайта необходимо включить JavaScript."
+
+#: includes/menu.php:220
+msgid "User profile"
+msgstr "Личный кабинет"
+
+#: includes/menu.php:231
+msgid "Sign in"
+msgstr "Вход в аккаунт"
+
+#: includes/menu.php:239
+msgid "Sign up"
+msgstr "Регистрация"
+
+#: includes/menu.php:386
+msgid "Logout"
+msgstr "Выйти"
+
+#: includes/posts.php:116
+msgid "Sort by newness"
+msgstr "новые записи"
+
+#: includes/posts.php:117
+msgid "Sort by popularity"
+msgstr "популярные"
+
+#: includes/posts.php:123
+msgid "Sort by relevance"
+msgstr "по релевантности"
+
+#: includes/posts.php:156 includes/setup.php:429
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: includes/posts.php:183
+msgid "View"
+msgstr "Вид"
+
+#: includes/posts.php:506 includes/single.php:595
+msgctxt "comments link"
+msgid "No Comments"
+msgstr "Комментировать"
+
+#: includes/posts.php:557 includes/search.php:58
+#, php-format
+msgid "Results found: %s"
+msgstr "Найдено результатов: %s"
+
+#: includes/posts.php:578
+msgid "No posts yet."
+msgstr "Пока нет ни одной записи."
+
+#: includes/search.php:64
+msgid "No results found"
+msgstr "Результаты не найдены"
+
+#: includes/search.php:189
+msgid "Unfortunately, your query returned no results."
+msgstr "К сожалению, по вашему запросу ничего не найдено."
+
+#: includes/search.php:192
+msgid "Make sure all words are spelled correctly."
+msgstr "Убедитесь, что все слова написаны без ошибок."
+
+#: includes/search.php:193
+msgid "Try different keywords."
+msgstr "Попробуйте использовать другие ключевые слова."
+
+#: includes/search.php:194
+msgid "Change the filtering options for search results."
+msgstr "Измените параметры фильтрации результатов поиска."
+
+#: includes/setup.php:34
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: includes/setup.php:35
+msgid "User Menu"
+msgstr "Меню пользователя"
+
+#: includes/setup.php:36
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: includes/setup.php:37
+msgid "Footer Menu"
+msgstr "Меню в подвале сайта"
+
+#: includes/setup.php:130
+#, php-format
+msgid ""
+"WebPoint Theme requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+"Для работы темы WebPoint необходима версия WordPress не ниже 4.7. Ваша "
+"текущая версия WordPress - %s. Пожалуйста, обновите WordPress и попробуйте "
+"активировать тему снова."
+
+#: includes/setup.php:152
+msgctxt "sidebar"
+msgid "Header"
+msgstr "Шапка сайта"
+
+#: includes/setup.php:154
+msgid "Add widgets here to appear in your header."
+msgstr "Добавьте сюда виджеты, которые вы хотите разместить в шапке сайта."
+
+#: includes/setup.php:164
+msgctxt "sidebar"
+msgid "Sidebar"
+msgstr "Боковая колонка сайта"
+
+#: includes/setup.php:166
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+"Добавьте сюда виджеты, которые вы хотите разместить в боковой колонке сайта."
+
+#: includes/setup.php:176
+msgctxt "sidebar"
+msgid "Footer"
+msgstr "Подвал сайта"
+
+#: includes/setup.php:178
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты, которые вы хотите разместить в подвале сайта."
+
+#: includes/setup.php:394
+msgid "Main menu"
+msgstr "Главное меню"
+
+#: includes/setup.php:425
+msgid "more"
+msgstr "еще"
+
+#: includes/setup.php:426
+msgid "Show images"
+msgstr "Показать изображения"
+
+#: includes/setup.php:427
+msgid "Hide images"
+msgstr "Скрыть изображения"
+
+#: includes/setup.php:428
+msgid "Hide"
+msgstr "Скрыть"
+
+#: includes/setup.php:430
+msgctxt "number"
+msgid "out of"
+msgstr "из"
+
+#: includes/setup.php:431
+msgid "Cancel reply"
+msgstr "Отменить ответ"
+
+#: includes/setup.php:432
+msgid "Read more"
+msgstr "Подробнее"
+
+#: includes/single.php:398
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: includes/single.php:617
+msgid "Category"
+msgstr "Категория"
+
+#: includes/taxonomy.php:209
+msgid "There are no posts in this category yet."
+msgstr "В данном разделе пока нет ни одной записи."
+
+#: includes/template.php:262
+msgid "Search for"
+msgstr "Поиск по сайту"
+
+#: includes/template.php:555
+msgctxt "posts"
+msgid "Pagination"
+msgstr "Постраничная навигация"
+
+#. Theme Name of the plugin/theme
+msgid "WebPoint"
+msgstr "WebPoint"
+
+#. Theme URI of the plugin/theme
+msgid "https://dmitriydenisov.com/webpoint/"
+msgstr "https://dmitriydenisov.com/webpoint/"
+
+#. Description of the plugin/theme
+msgid ""
+"WebPoint is a multipurpose WordPress theme with responsive design and good "
+"technical search engine optimization."
+msgstr ""
+"WebPoint - это многоцелевая тема для WordPress с адаптивным дизайном и "
+"хорошей технической поисковой оптимизацией."
+
+#. Author of the plugin/theme
+msgid "Dmitriy Denisov"
+msgstr "Дмитрий Денисов"
+
+#. Author URI of the plugin/theme
+msgid "https://dmitriydenisov.com"
+msgstr "https://dmitriydenisov.com"

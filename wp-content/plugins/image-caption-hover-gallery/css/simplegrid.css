@@ -1,0 +1,250 @@
+.wcp-prefix {
+  position: relative;
+  /*
+  Simple Grid
+  Learn More - http://dallasbass.com/simple-grid-a-lightweight-responsive-css-grid/
+  Project Page - http://thisisdallas.github.com/Simple-Grid/
+  Author - Dallas Bass
+  Site - dallasbass.com
+*/
+  /* Content Columns */
+  /* Layout Columns */
+  /* Pushing blocks */
+}
+.wcp-prefix *,
+.wcp-prefix *:after,
+.wcp-prefix *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.wcp-prefix body {
+  margin: 0px;
+}
+.wcp-prefix [class*='col-'] {
+  float: left;
+  padding-right: 20px;
+  /* column-space */
+}
+.wcp-prefix .grid {
+  width: 100%;
+  margin: 0 auto;
+  overflow: visible;
+}
+.wcp-prefix .grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.wcp-prefix .grid-pad {
+  padding-top: 20px;
+  padding-left: 20px;
+  /* grid-space to left */
+  padding-right: 0px;
+  /* grid-space to right: (grid-space-left - column-space) e.g. 20px-20px=0 */
+}
+.wcp-prefix .push-right {
+  float: right;
+}
+.wcp-prefix .col-1-1 {
+  width: 100%;
+}
+.wcp-prefix .col-2-3,
+.wcp-prefix .col-8-12 {
+  width: 66.66%;
+}
+.wcp-prefix .col-1-2,
+.wcp-prefix .col-6-12 {
+  width: 50%;
+}
+.wcp-prefix .col-1-3,
+.wcp-prefix .col-4-12 {
+  width: 33.33%;
+}
+.wcp-prefix .col-1-4,
+.wcp-prefix .col-3-12 {
+  width: 25%;
+}
+.wcp-prefix .col-1-5 {
+  width: 20%;
+}
+.wcp-prefix .col-1-6,
+.wcp-prefix .col-2-12 {
+  width: 16.667%;
+}
+.wcp-prefix .col-1-7 {
+  width: 14.28%;
+}
+.wcp-prefix .col-1-8 {
+  width: 12.5%;
+}
+.wcp-prefix .col-1-9 {
+  width: 11.1%;
+}
+.wcp-prefix .col-1-10 {
+  width: 10%;
+}
+.wcp-prefix .col-1-11 {
+  width: 9.09%;
+}
+.wcp-prefix .col-1-12 {
+  width: 8.33%;
+}
+.wcp-prefix .col-11-12 {
+  width: 91.66%;
+}
+.wcp-prefix .col-10-12 {
+  width: 83.333%;
+}
+.wcp-prefix .col-9-12 {
+  width: 75%;
+}
+.wcp-prefix .col-5-12 {
+  width: 41.66%;
+}
+.wcp-prefix .col-7-12 {
+  width: 58.33%;
+}
+.wcp-prefix .push-2-3,
+.wcp-prefix .push-8-12 {
+  margin-left: 66.66%;
+}
+.wcp-prefix .push-1-2,
+.wcp-prefix .push-6-12 {
+  margin-left: 50%;
+}
+.wcp-prefix .push-1-3,
+.wcp-prefix .push-4-12 {
+  margin-left: 33.33%;
+}
+.wcp-prefix .push-1-4,
+.wcp-prefix .push-3-12 {
+  margin-left: 25%;
+}
+.wcp-prefix .push-1-5 {
+  margin-left: 20%;
+}
+.wcp-prefix .push-1-6,
+.wcp-prefix .push-2-12 {
+  margin-left: 16.667%;
+}
+.wcp-prefix .push-1-7 {
+  margin-left: 14.28%;
+}
+.wcp-prefix .push-1-8 {
+  margin-left: 12.5%;
+}
+.wcp-prefix .push-1-9 {
+  margin-left: 11.1%;
+}
+.wcp-prefix .push-1-10 {
+  margin-left: 10%;
+}
+.wcp-prefix .push-1-11 {
+  margin-left: 9.09%;
+}
+.wcp-prefix .push-1-12 {
+  margin-left: 8.33%;
+}
+@media handheld, only screen and (max-width: 767px) {
+  .wcp-prefix {
+    /* Mobile Layout */
+    /* Layout Columns */
+  }
+  .wcp-prefix .grid {
+    width: 100%;
+    min-width: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 20px;
+    /* grid-space to left */
+    padding-right: 10px;
+    /* grid-space to right: (grid-space-left - column-space) e.g. 20px-10px=10px */
+  }
+  .wcp-prefix [class*='col-'] {
+    width: auto;
+    float: none;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 10px;
+    /* column-space */
+  }
+  .wcp-prefix [class*='mobile-col-'] {
+    float: left;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 10px;
+    /* column-space */
+    padding-bottom: 0px;
+  }
+  .wcp-prefix .mobile-col-1-1 {
+    width: 100%;
+  }
+  .wcp-prefix .mobile-col-2-3,
+  .wcp-prefix .mobile-col-8-12 {
+    width: 66.66%;
+  }
+  .wcp-prefix .mobile-col-1-2,
+  .wcp-prefix .mobile-col-6-12 {
+    width: 50%;
+  }
+  .wcp-prefix .mobile-col-1-3,
+  .wcp-prefix .mobile-col-4-12 {
+    width: 33.33%;
+  }
+  .wcp-prefix .mobile-col-1-4,
+  .wcp-prefix .mobile-col-3-12 {
+    width: 25%;
+  }
+  .wcp-prefix .mobile-col-1-5 {
+    width: 20%;
+  }
+  .wcp-prefix .mobile-col-1-6,
+  .wcp-prefix .mobile-col-2-12 {
+    width: 16.667%;
+  }
+  .wcp-prefix .mobile-col-1-7 {
+    width: 14.28%;
+  }
+  .wcp-prefix .mobile-col-1-8 {
+    width: 12.5%;
+  }
+  .wcp-prefix .mobile-col-1-9 {
+    width: 11.1%;
+  }
+  .wcp-prefix .mobile-col-1-10 {
+    width: 10%;
+  }
+  .wcp-prefix .mobile-col-1-11 {
+    width: 9.09%;
+  }
+  .wcp-prefix .mobile-col-1-12 {
+    width: 8.33%;
+  }
+  .wcp-prefix .mobile-col-11-12 {
+    width: 91.66%;
+  }
+  .wcp-prefix .mobile-col-10-12 {
+    width: 83.333%;
+  }
+  .wcp-prefix .mobile-col-9-12 {
+    width: 75%;
+  }
+  .wcp-prefix .mobile-col-5-12 {
+    width: 41.66%;
+  }
+  .wcp-prefix .mobile-col-7-12 {
+    width: 58.33%;
+  }
+  .wcp-prefix .hide-on-mobile {
+    display: none !important;
+    width: 0;
+    height: 0;
+  }
+}

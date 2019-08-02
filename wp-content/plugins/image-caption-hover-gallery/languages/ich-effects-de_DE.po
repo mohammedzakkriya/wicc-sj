@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Caption Hover Effects\n"
+"POT-Creation-Date: 2016-03-10 11:41+0500\n"
+"PO-Revision-Date: 2016-03-11 08:56+0500\n"
+"Last-Translator: Rameez <rameez7759@gmail.com>\n"
+"Language-Team: WebCodingPlace <rameez7759@gmail.com>\n"
+"Language: Multi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\2.0\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:42
+msgid "Image Caption Hover Effects"
+msgstr "Bildunterschrift Hover-Effekte"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:43
+msgid "ICH Effect"
+msgstr "ICH Effect"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:44
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:45
+msgid "Add New Effect"
+msgstr "New Effect"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:46
+msgid "Edit Effect"
+msgstr "edit Effect"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:47
+msgid "New Effect"
+msgstr "New Effect"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:48
+msgid "View ICH Effect"
+msgstr "Ansicht ICH Effect"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:49
+msgid "Search ICH Effects"
+msgstr "Suchen ICH Effects"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:50
+msgid "No Image Caption Hover Effects found"
+msgstr "Keine Bildunterschrift Hover-Effekte gefunden"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:51
+msgid "No Image Caption Hover Effects found in Trash"
+msgstr "Keine Bildunterschrift Hover-Effekte in Trash gefunden"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:52
+msgid "Parent ICH Effect:"
+msgstr "Eltern ICH Wirkung:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:53
+msgid "ICH Effects"
+msgstr "ICH Effects"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:94
+msgid "Image Caption Hover Categories"
+msgstr "Bildunterschrift Hover Kategorien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:95
+msgid "ICH Category"
+msgstr "ICH Kategorie"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:96
+msgid "Search ICH Categories"
+msgstr "Suchen ICH Kategorien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:97
+msgid "Popular ICH Categories"
+msgstr "Beliebte ICH Kategorien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:98
+msgid "All ICH Categories"
+msgstr "Alle ICH Kategorien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:99
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:100
+msgid "Parent ICH Category"
+msgstr "Eltern ICH Kategorie"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:101
+msgid "Edit ICH Category"
+msgstr "Bearbeiten Sie jede Kategorie"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:102
+msgid "Update ICH Category"
+msgstr "Aktualisieren jeder Kategorie"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:103
+msgid "Add New ICH Category"
+msgstr "New ICH Kategorie"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:104
+msgid "New ICH Category Name"
+msgstr "New ICH Kategorie Name"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:105
+msgid "Add or remove ICH Categories"
+msgstr "Hinzufügen oder Entfernen von ICH Kategorien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:106
+msgid "Choose from most used ich-effects"
+msgstr "Wählen Sie aus am häufigsten verwendete ich-Effekte"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:107
+msgid "ICH Categories"
+msgstr "ICH Kategorien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:204
+msgid "Unlock Pro Features"
+msgstr "Schalte Proeigenschaften"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/render_box_contents.php:96
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/doc_page.php:2
+msgid "Documentation for Image Caption Hover Effects"
+msgstr "Dokumentation für Bildunterschrift Hover-Effekte"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/doc_page.php:2
+msgid "Explore Pro"
+msgstr "Entdecken Pro"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/doc_page.php:5
+msgid "Shortcode for Single Row"
+msgstr "Shortcode für einreihig"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/doc_page.php:9
+msgid "Shortcode for Category"
+msgstr "Shortcode für die Kategorie"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/doc_page.php:13
+msgid "Manage Space between Images"
+msgstr "Verwalten Raum zwischen den Bildern"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:2
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:184
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:2
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:187
+msgid "Column"
+msgstr "Spalte"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:6
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:6
+msgid "Paste URL or use from Media"
+msgstr "Paste URL oder die Verwendung von Medien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:10
+msgid "Select Image"
+msgstr "Bild auswählen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:11
+msgid "Select"
+msgstr "Wählen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:11
+msgid "Media"
+msgstr "Medien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:14
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:14
+msgid "Use media to upload image"
+msgstr "Verwenden Sie Medien Bild hochladen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:18
+msgid "Title"
+msgstr "Titel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:23
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:23
+msgid "It will be used as title attribute of image tag"
+msgstr "Es wird als Titel-Attribut des Image-Tag verwendet werden,"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:27
+msgid "Alternate Text"
+msgstr "Alternativer Text"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:32
+msgid "It will be used as alt attribute of image tag"
+msgstr "Es wird als alt-Attribut des Image-Tag verwendet werden,"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:36
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:36
+msgid "Caption Text"
+msgstr "Beschriftungstext"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:39
+msgid "HTML tags can be used when caption wrapper is none"
+msgstr "HTML-Tags können verwendet werden, wenn Beschriftung Wrapper keine ist"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:43
+msgid "Caption Wrapper"
+msgstr "Bildunterschrift Wrapper"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:46
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:47
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:50
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:46
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:47
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:50
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:51
+msgid "Heading"
+msgstr "Überschrift"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:52
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:52
+msgid "None"
+msgstr "Keiner"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:56
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:56
+msgid "Wrap caption in markup"
+msgstr "Wickeln Sie Beschriftung in Markup"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:60
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:60
+msgid "Caption Alignment"
+msgstr "Bildunterschrift Ausrichtung"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:63
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:63
+msgid "Auto"
+msgstr "Auto"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:64
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:64
+msgid "Center"
+msgstr "Center"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:65
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:65
+msgid "Right"
+msgstr "Center"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:66
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:66
+msgid "Left"
+msgstr "Links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:67
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:67
+msgid "Justify"
+msgstr "Rechtfertigen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:71
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:71
+msgid "How you want to align caption"
+msgstr "Wie Sie wollen Beschriftung ausrichten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:75
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:75
+msgid "Caption Background Color"
+msgstr "Bildunterschrift Hintergrundfarbe"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:78
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:85
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:78
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:85
+msgid "Use Color Picker from right sidebar"
+msgstr "Mit dem Farbwähler von der rechten Seitenleiste"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:82
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:82
+msgid "Caption Text Color"
+msgstr "Bildunterschrift Textfarbe"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:89
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:89
+msgid "Background Opacity"
+msgstr "Hintergrund Opazität"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:92
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:92
+msgid "Use from 0.1 to 1.0"
+msgstr "Verwenden von 0,1 bis 1,0"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:103
+msgid "Link To"
+msgstr "Link zu"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:99
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:106
+msgid "Paste URL here or leave blank"
+msgstr "Paste URL hier oder leer lassen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:103
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:96
+msgid "Enable LightBox"
+msgstr "Aktivieren Sie LightBox"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:103
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:137
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:146
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:163
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:172
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:138
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:147
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:165
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:174
+msgid "Pro Feature"
+msgstr "Pro Feature"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:106
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:99
+msgid "It will open images in popup on clicking"
+msgstr "Es öffnet sich Bilder in Pop-up auf einem Klick"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:110
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:110
+msgid "Link Target"
+msgstr "Linkziel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:113
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:113
+msgid "New window"
+msgstr "Neues Fenster"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:114
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:114
+msgid "Same Window"
+msgstr "Im selben Fenster"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:115
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:115
+msgid "Parent frameset"
+msgstr "Frameset"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:116
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:116
+msgid "Full body of the window"
+msgstr "Ganzkörper des Fensters"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:120
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:120
+msgid "Open link in new tab or same"
+msgstr "Link in neuem Tab oder gleiche"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:124
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:124
+msgid "Hover Style"
+msgstr "Hover Stil"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:133
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:133
+msgid "Choose hover style"
+msgstr "Wählen Sie schweben Stil"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:137
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:138
+msgid "Border Width"
+msgstr "Rahmenbreite"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:142
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:143
+msgid "Width of border. Leaving blank will disable border."
+msgstr "Breite der Grenze. leer lassen, wird Grenze zu deaktivieren."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:146
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:147
+msgid "Border Type"
+msgstr "Border Typ"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:149
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:150
+msgid "Dotted"
+msgstr "Gepunktete"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:150
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:151
+msgid "Dashed"
+msgstr "Eine gestrichelte"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:151
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:152
+msgid "Solid"
+msgstr "Solide"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:152
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:153
+msgid "Double"
+msgstr "Doppelt"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:153
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:154
+msgid "Groove"
+msgstr "Rille"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:154
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:155
+msgid "Ridge"
+msgstr "Grat"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:155
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:156
+msgid "Inset"
+msgstr "Einsatz"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:156
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:157
+msgid "Outset"
+msgstr "Anfang"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:159
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:161
+msgid "Some styles may depend on border color."
+msgstr "Einige Arten können auf Grenzfarbe abhängen."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:163
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:165
+msgid "Border Color"
+msgstr "Randfarbe"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:168
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:170
+msgid "Name of color or color code."
+msgstr "Benennen der Farbe oder Farbcode ."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:172
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:174
+msgid "Border Radius"
+msgstr "Border Radius"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:177
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:179
+msgid "Radius of border eg: 5px or 50%."
+msgstr "Radius der Grenze zB: 5px oder 50%."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:181
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:183
+msgid "Width"
+msgstr "Breite"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:185
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:186
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:187
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:188
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:189
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:190
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:191
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:192
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:193
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:194
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:195
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:188
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:189
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:190
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:191
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:192
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:193
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:194
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:195
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:196
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:197
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:198
+msgid "Columns"
+msgstr "Spalten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:196
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:199
+msgid "Auto Adjust"
+msgstr "Automatische Anpassung"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:200
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:203
+msgid "Select width from 12 Columns Grid"
+msgstr "Wählen Sie Breite von 12 Spalten Grid"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:204
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:207
+msgid "Remove"
+msgstr "Entfernen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/render_shortcode_category.php:2
+msgid "Sorry! Categories will work in"
+msgstr "Es tut uns leid! Kategorien arbeiten in"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/render_shortcode_category.php:2
+msgid "Pro Version"
+msgstr "Pro Version"

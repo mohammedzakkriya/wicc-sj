@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Caption Hover Effects\n"
+"POT-Creation-Date: 2016-03-10 11:41+0500\n"
+"PO-Revision-Date: 2016-03-11 17:29+0500\n"
+"Last-Translator: Rameez <rameez7759@gmail.com>\n"
+"Language-Team: WebCodingPlace <rameez7759@gmail.com>\n"
+"Language: Multi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\2.0\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:42
+msgid "Image Caption Hover Effects"
+msgstr "Billede Caption Hover Effects"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:43
+msgid "ICH Effect"
+msgstr "ICH Effect"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:44
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:45
+msgid "Add New Effect"
+msgstr "Tilføj ny effekt"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:46
+msgid "Edit Effect"
+msgstr "Rediger Effect"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:47
+msgid "New Effect"
+msgstr "ny Effect"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:48
+msgid "View ICH Effect"
+msgstr "Vis ICH Effect"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:49
+msgid "Search ICH Effects"
+msgstr "Søg ICH Effects"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:50
+msgid "No Image Caption Hover Effects found"
+msgstr "Ingen billede Caption Hover effekter fundet"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:51
+msgid "No Image Caption Hover Effects found in Trash"
+msgstr "Ingen billede Caption Hover effekter fundet i papirkurven"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:52
+msgid "Parent ICH Effect:"
+msgstr "Parent ICH Effekt:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:53
+msgid "ICH Effects"
+msgstr "ICH Effects"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:94
+msgid "Image Caption Hover Categories"
+msgstr "Billede Billedtekst Hover Kategorier"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:95
+msgid "ICH Category"
+msgstr "ICH Kategori"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:96
+msgid "Search ICH Categories"
+msgstr "Søg ICH Kategorier"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:97
+msgid "Popular ICH Categories"
+msgstr "Populære ICH Kategorier"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:98
+msgid "All ICH Categories"
+msgstr "Alle ICH Kategorier"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:99
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:100
+msgid "Parent ICH Category"
+msgstr "Parent ICH Kategori"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:101
+msgid "Edit ICH Category"
+msgstr "Rediger Hver kategori"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:102
+msgid "Update ICH Category"
+msgstr "Opdater Hver kategori"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:103
+msgid "Add New ICH Category"
+msgstr "Tilføj ny ICH kategori"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:104
+msgid "New ICH Category Name"
+msgstr "Ny ICH Kategori Navn"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:105
+msgid "Add or remove ICH Categories"
+msgstr "Tilføj eller fjern ICH Kategorier"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:106
+msgid "Choose from most used ich-effects"
+msgstr "Vælg mellem mest anvendte ICH-effekter"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:107
+msgid "ICH Categories"
+msgstr "ICH kategorier"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/plugin.class.php:204
+msgid "Unlock Pro Features"
+msgstr "Lås Pro Funktioner"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/render_box_contents.php:96
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/doc_page.php:2
+msgid "Documentation for Image Caption Hover Effects"
+msgstr "Dokumentation for Billede Caption Hover Effects"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/doc_page.php:2
+msgid "Explore Pro"
+msgstr " Udforsk Pro"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/doc_page.php:5
+msgid "Shortcode for Single Row"
+msgstr "Lær Single Row"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/doc_page.php:9
+msgid "Shortcode for Category"
+msgstr "Lær for kategori"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/doc_page.php:13
+msgid "Manage Space between Images"
+msgstr "Administrer Space mellem billeder"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:2
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:184
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:2
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:187
+msgid "Column"
+msgstr "Kolonne"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:6
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:6
+msgid "Paste URL or use from Media"
+msgstr "Indsæt URL eller brug fra Media"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:10
+msgid "Select Image"
+msgstr "Vælg billede"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:11
+msgid "Select"
+msgstr "Vælge"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:11
+msgid "Media"
+msgstr "Medier"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:14
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:14
+msgid "Use media to upload image"
+msgstr "Brug medier til at uploade billede"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:18
+msgid "Title"
+msgstr "Titel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:23
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:23
+msgid "It will be used as title attribute of image tag"
+msgstr "Den vil blive brugt som titel attribut i billedet tag"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:27
+msgid "Alternate Text"
+msgstr "Den will be used as titel Attribut jeg Billedet tag"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:32
+msgid "It will be used as alt attribute of image tag"
+msgstr "Den vil blive brugt som alt attribut i billedet tag"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:36
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:36
+msgid "Caption Text"
+msgstr "Billedtekst Tekst"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:39
+msgid "HTML tags can be used when caption wrapper is none"
+msgstr "HTML-koder kan bruges, når billedtekst wrapper er ingen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:43
+msgid "Caption Wrapper"
+msgstr "Billedtekst wrapper"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:46
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:47
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:50
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:46
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:47
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:50
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:51
+msgid "Heading"
+msgstr "Overskrift"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:52
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:52
+msgid "None"
+msgstr "Ingen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:56
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:56
+msgid "Wrap caption in markup"
+msgstr "Wrap billedtekst i markup"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:60
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:60
+msgid "Caption Alignment"
+msgstr "Billedtekst Alignment"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:63
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:63
+msgid "Auto"
+msgstr "Auto"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:64
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:64
+msgid "Center"
+msgstr "Centrum"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:65
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:65
+msgid "Right"
+msgstr "Højre"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:66
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:66
+msgid "Left"
+msgstr "Venstre"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:67
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:67
+msgid "Justify"
+msgstr "Begrund"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:71
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:71
+msgid "How you want to align caption"
+msgstr "Hvordan du ønsker at justere billedtekst"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:75
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:75
+msgid "Caption Background Color"
+msgstr "Billedtekst baggrundsfarve"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:78
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:85
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:78
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:85
+msgid "Use Color Picker from right sidebar"
+msgstr "Brug Farvevælger fra højre sidebar"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:82
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:82
+msgid "Caption Text Color"
+msgstr "Billedtekst Tekstfarve"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:89
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:89
+msgid "Background Opacity"
+msgstr "Baggrund Opacity"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:92
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:92
+msgid "Use from 0.1 to 1.0"
+msgstr "Brug fra 0,1 til 1,0"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:103
+msgid "Link To"
+msgstr "Link Til"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:99
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:106
+msgid "Paste URL here or leave blank"
+msgstr "Indsæt URL her eller lad tomt"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:103
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:96
+msgid "Enable LightBox"
+msgstr "Aktiver LightBox"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:103
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:137
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:146
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:163
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:172
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:138
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:147
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:165
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:174
+msgid "Pro Feature"
+msgstr "Pro Feature"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:106
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:99
+msgid "It will open images in popup on clicking"
+msgstr "Det vil åbne billederne i pop-up på at klikke"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:110
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:110
+msgid "Link Target"
+msgstr "Link Target"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:113
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:113
+msgid "New window"
+msgstr "nyt vindue"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:114
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:114
+msgid "Same Window"
+msgstr "samme vindue"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:115
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:115
+msgid "Parent frameset"
+msgstr "Forældre rammesæt"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:116
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:116
+msgid "Full body of the window"
+msgstr "Hele kroppen af vinduet"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:120
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:120
+msgid "Open link in new tab or same"
+msgstr "Åbn link i ny fane eller samme"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:124
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:124
+msgid "Hover Style"
+msgstr "Hover Style"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:133
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:133
+msgid "Choose hover style"
+msgstr "Vælg hover stil"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:137
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:138
+msgid "Border Width"
+msgstr "Border Width"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:142
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:143
+msgid "Width of border. Leaving blank will disable border."
+msgstr "Bredde af grænsen. Forlader blank vil deaktivere grænse."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:146
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:147
+msgid "Border Type"
+msgstr "Border Type"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:149
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:150
+msgid "Dotted"
+msgstr "punkteret"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:150
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:151
+msgid "Dashed"
+msgstr "stiplet"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:151
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:152
+msgid "Solid"
+msgstr "Solid"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:152
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:153
+msgid "Double"
+msgstr "Dobbelt"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:153
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:154
+msgid "Groove"
+msgstr "Rille"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:154
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:155
+msgid "Ridge"
+msgstr "Ryg"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:155
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:156
+msgid "Inset"
+msgstr "Indsat"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:156
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:157
+msgid "Outset"
+msgstr "starten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:159
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:161
+msgid "Some styles may depend on border color."
+msgstr "Nogle stilarter kan afhænge af grænsen farve."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:163
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:165
+msgid "Border Color"
+msgstr "Border Color"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:168
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:170
+msgid "Name of color or color code."
+msgstr "Navn på farve eller farvekode."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:172
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:174
+msgid "Border Radius"
+msgstr "Border Radius"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:177
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:179
+msgid "Radius of border eg: 5px or 50%."
+msgstr "Radius af grænsekontrol f.eks 5px eller 50%."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:181
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:183
+msgid "Width"
+msgstr "Bredde"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:185
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:186
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:187
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:188
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:189
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:190
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:191
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:192
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:193
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:194
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:195
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:188
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:189
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:190
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:191
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:192
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:193
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:194
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:195
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:196
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:197
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:198
+msgid "Columns"
+msgstr "Kolonner"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:196
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:199
+msgid "Auto Adjust"
+msgstr "Auto Adjust"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:200
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:203
+msgid "Select width from 12 Columns Grid"
+msgstr "Vælg bredde fra 12 kolonner Grid"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/load_first.php:204
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/saved_options.php:207
+msgid "Remove"
+msgstr "Fjerne"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/render_shortcode_category.php:2
+msgid "Sorry! Categories will work in"
+msgstr "Undskyld! Kategorier vil arbejde i"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.0/temp/render_shortcode_category.php:2
+msgid "Pro Version"
+msgstr "Pro Version"

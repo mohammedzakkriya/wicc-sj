@@ -1,0 +1,167 @@
+/*!
+Theme Name: All1
+Description: All1 is a child theme of AllinGrid WordPress Theme. Features include MetaSlider plugin support, additional Homepage columns widgets areas, etc.
+Theme URI: https://allinonethemes.com/product/all1
+Author: allinonethemes
+Author URI: https://allinonethemes.com
+Template: allingrid
+Version: 1.0.0
+Text Domain: all1
+Tags: blog, news, two-columns, right-sidebar, custom-logo, custom-background, custom-header, custom-menu, threaded-comments, translation-ready, sticky-post, theme-options, footer-widgets, editor-style, full-width-template
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/*
+ * Slider
+ */
+ul.slides .caption {
+	text-align:center;
+}
+
+ul.slides h1,
+ul.slides h2,
+ul.slides h3,
+ul.slides h4,
+ul.slides h5,
+ul.slides h6,
+ul.slides p,
+ul.slides li {
+	color:#FFFFFF;
+}
+
+.col ul > li:before {
+	font-family:'FontAwesome';
+	font-style:normal;
+	font-weight:normal;
+	line-height:1;
+	margin-right:5px;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+	content:"\f06c";
+	opacity:0.7;
+}
+
+.col > ul {
+	margin-left:3px;
+}
+
+.col li {
+	margin-bottom:5px;
+}
+
+.col1a {
+	float:none;
+	width:96%;
+	margin:5px 0 5px 0;
+}
+
+/* Large Resolution */
+@media screen and (min-width: 800px) {
+
+	/* columns */
+	.col2a,
+	.col2b {
+		float:left;
+		width:47%;
+	}
+	
+	.col2a {
+		margin:0 4% 5px 0;
+	}
+	
+	.col2b {
+		margin:0 0 5px 0;
+	}
+	
+	.col3a,
+	.col3b,
+	.col3c {
+		float:left;
+		width:30.6%;
+	}
+	
+	.col3a,
+	.col3b {
+		margin:0 3.5% 5px 0;
+	}
+	
+	.col3c {
+		margin:0 0 5px 0;
+	}
+	
+	.col4a,
+	.col4b,
+	.col4c,
+	.col4d {
+		width:22%;
+		float:left;
+	}
+	
+	.col4a,
+	.col4b,
+	.col4c {
+		margin:0 3.5% 5px 0;
+	}
+
+	.col4d {
+		margin:0 0 5px 0;
+	}
+}
+
+/* Medium Resolution */
+@media screen and (max-width: 799px) {
+
+	/* columns */
+	.col2a,
+	.col2b,
+	.col3a,
+	.col3b,
+	.col3c,
+	.col4a,
+	.col4b,
+	.col4c,
+	.col4d {
+		float:left;
+		width:48%;
+	}
+	
+	.col2a,
+	.col3a,
+	.col3c,
+	.col4a,
+	.col4c {
+		margin:0 4% 5px 0;
+	}
+	
+	.col2b,
+	.col3b,
+	.col4b,
+	.col4d {
+		margin:0 0 5px 0;
+	}
+
+	.col3c,
+	.col4c {
+		clear:both;
+	}
+}
+
+/* Small Resolution */
+@media screen and (max-width: 360px) {
+
+	.col1a,
+	.col2a,
+	.col2b,
+	.col3a,
+	.col3b,
+	.col3c,
+	.col4a,
+	.col4b,
+	.col4c,
+	.col4d {
+		float:none;
+		width:96%;
+		margin:0 2% 5px 2%;
+	}
+}
